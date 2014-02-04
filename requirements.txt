@@ -1,0 +1,17 @@
+# Note: Be sure to set the version you are using before deploying.
+# Eg:
+# tornado==3.2
+
+# Tornado Server
+tornado
+
+# Optional Extras
+
+# Postgresql
+#psycopg2
+
+# SQL ORM
+#sqlalchemy
+
+# PBKDF2 (For Password Hashing)
+#pbkdf2
